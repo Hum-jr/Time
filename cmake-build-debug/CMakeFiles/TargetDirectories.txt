@@ -1,0 +1,3 @@
+C:/Users/humph/OneDrive/Desktop/CPP Learn/Time/cmake-build-debug/CMakeFiles/Time.dir
+C:/Users/humph/OneDrive/Desktop/CPP Learn/Time/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/humph/OneDrive/Desktop/CPP Learn/Time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
